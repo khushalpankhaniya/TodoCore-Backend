@@ -22,8 +22,8 @@ npm run dev
 Create a `.env` file inside the `backend` folder with:
 
 ```env
-MONGODB_URI=mongodb://127.0.0.1:27017/todo-app
-JWT_SECRET=your_jwt_secret_here
+MONGODB_URI=
+JWT_SECRET=
 ```
 
 ## Authentication flow (high level)
