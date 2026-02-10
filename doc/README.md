@@ -1,4 +1,4 @@
-## ATask – Todo Backend
+## Todo Backend
 
 ## Tech stack
 
